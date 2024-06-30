@@ -6,4 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 alpine
 kasmweb/nginx:latest
-nyanmisaka/jellyfin:latest-legacy
+nyanmisaka/jellyfin:latest
