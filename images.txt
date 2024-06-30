@@ -9,4 +9,4 @@ kasmweb/nginx:latest
 nyanmisaka/jellyfin:latest
 sanjusss/aliyun-ddns
 gotson/komga
-Ikw199711/smanga
+Ikw199711/smanga:latest
