@@ -7,4 +7,4 @@ xhofe/alist:latest
 alpine
 kasmweb/nginx:latest
 nyanmisaka/jellyfin:latest
-chenhw2/aliyun-ddns-cli1
+sanjusss/aliyun-ddns
