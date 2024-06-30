@@ -8,3 +8,4 @@ alpine
 kasmweb/nginx:latest
 nyanmisaka/jellyfin:latest
 sanjusss/aliyun-ddns
+chenhw2/aliyun-ddns
