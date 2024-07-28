@@ -13,3 +13,4 @@ wbsu2003/koodo-reader
 nyanmisaka/jellyfin:latest-legacy
 romancin/tinymediamanager
 jellyfin/jellyfin
+xhofe/alist
