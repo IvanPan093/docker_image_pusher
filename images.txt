@@ -15,3 +15,13 @@ romancin/tinymediamanager
 jellyfin/jellyfin
 xhofe/alist
 gotson/komga
+ssrf_proxy
+sandbox
+nginx
+db
+plugin_daemon
+web
+worker
+weaviate
+api
+redis
